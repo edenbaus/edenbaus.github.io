@@ -1,0 +1,7 @@
+[32m[I 12:48:05.245 NotebookApp][m 302 GET / (192.168.1.4) 0.61ms
+[32m[I 12:48:05.253 NotebookApp][m 302 GET /tree? (192.168.1.4) 0.71ms
+[32m[I 12:48:11.981 NotebookApp][m 302 GET / (192.168.1.4) 0.62ms
+[32m[I 12:48:11.987 NotebookApp][m 302 GET /tree? (192.168.1.4) 0.87ms
+[32m[I 12:48:12.088 NotebookApp][m 302 GET / (192.168.1.4) 0.58ms
+[32m[I 12:48:12.104 NotebookApp][m 302 GET /tree? (192.168.1.4) 0.73ms
+[32m[I 12:48:18.124 NotebookApp][m 302 POST /login?next=%2Ftree%3F (192.168.1.4) 1.60ms
