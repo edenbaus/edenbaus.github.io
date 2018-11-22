@@ -1,2 +1,4 @@
-./Data
+**/Data
 ./Data/
+.ipynb_checkpoints/
+
